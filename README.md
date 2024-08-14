@@ -11,21 +11,21 @@ This application allows event organizers to input and manage two types of data: 
 
 New event organizers can register by providing their details such as name, email, and password. The registration process ensures that only authorized users can access the application.
 
-![image](https://github.com/user-attachments/assets/6648dd7f-554d-4224-a5f3-fdd1c3f3d612)
+<img width="341" alt="Screenshot 2024-08-15 at 2 07 07 AM" src="https://github.com/user-attachments/assets/4c5a30b3-6b74-4a91-9940-66bb87a0273a">
 
 
 ### 2. User Login
 
 Registered users can log in using their email and password. This functionality ensures secure access to the app’s features and data
 
-![image](https://github.com/user-attachments/assets/a1930e6d-4553-48d5-b6bd-0ecda6538e39)
+<img width="347" alt="Screenshot 2024-08-15 at 2 07 28 AM" src="https://github.com/user-attachments/assets/3a2ed263-251d-4694-ba6d-9028a3c4aa1a">
 
 
 ### 3. Event Category Input
 
 Event organizers can specify the type of event by selecting from predefined categories. This categorization helps in organizing and filtering events efficiently.
 
-![image](https://github.com/user-attachments/assets/247989ab-729b-445e-aeff-9b7ab9e58bd0)
+<img width="351" alt="Screenshot 2024-08-15 at 2 08 10 AM" src="https://github.com/user-attachments/assets/63e24b85-c741-49e5-a0a0-3a488f5ee62c">
 
 
 ### 4. Event Input
@@ -33,7 +33,7 @@ Event organizers can specify the type of event by selecting from predefined cate
 Organizers can add new events by storing necessary details such as event name, date, location, and description to an existing category ID by using fab in the left lower right corner. Each event is stored in a tabular format for easy access and management.
 After the user attempts to save an event, the application displays a toast message indicating that the save was successful and also presents the user with a button to undo the save event.
 
-![image](https://github.com/user-attachments/assets/d2a52e6b-8873-4bcb-85db-7e2c9096ba1c)
+<img width="347" alt="Screenshot 2024-08-15 at 2 09 32 AM" src="https://github.com/user-attachments/assets/2c772399-f75e-42c0-a369-ced6bdc1252f">
 
 
 ### 5. Event Details and Management
@@ -41,11 +41,10 @@ After the user attempts to save an event, the application displays a toast messa
 Organizers can view a list of all their events, including details such as event name, date, category, and description. This feature allows organizers to manage their events efficiently.
 
 #### Organizers can view the list of successfully registered category from either dashboard or "View All Categories" by NavigationView:
-![image](https://github.com/user-attachments/assets/7606c1bb-caa8-4720-a856-5cb228f6a137)![image](https://github.com/user-attachments/assets/6641ef1f-4835-4d6f-8838-5ff2c41305c5)
+<img width="347" alt="Screenshot 2024-08-15 at 2 08 35 AM" src="https://github.com/user-attachments/assets/209a6d7a-445d-483e-820b-dab423b813ec"><img width="351" alt="Screenshot 2024-08-15 at 2 09 01 AM" src="https://github.com/user-attachments/assets/157d6696-bb19-4e60-b27f-33548931aebf">
 
 #### Organizers can view the list of successfully saved event from "View All Events" by NavigationView:
-![image](https://github.com/user-attachments/assets/11e98162-3748-49dd-8842-da428e8b692f)
-
+<img width="346" alt="Screenshot 2024-08-15 at 2 10 26 AM" src="https://github.com/user-attachments/assets/b993cfc0-a3d5-41ba-aafe-ae0858e85ff0">
 
 
 ## Conclusion
