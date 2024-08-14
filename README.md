@@ -31,9 +31,12 @@ Event organizers can specify the type of event by selecting from predefined cate
 ### 4. Event Input
 
 Organizers can add new events by storing necessary details such as event name, date, location, and description to an existing category ID by using fab in the left lower right corner. Each event is stored in a tabular format for easy access and management.
-After the user attempts to save an event, the application displays a toast message indicating that the save was successful and also presents the user with a button to undo the save event.
 
 <img width="347" alt="Screenshot 2024-08-15 at 2 09 32 AM" src="https://github.com/user-attachments/assets/2c772399-f75e-42c0-a369-ced6bdc1252f">
+
+After the user attempts to save an event, the application displays a toast message indicating that the save was successful and also presents the user with a button to undo the save event.
+
+<img width="343" alt="Screenshot 2024-08-15 at 2 12 07 AM" src="https://github.com/user-attachments/assets/df3ae339-f14c-42c1-b4f1-4bcf9bf07415">
 
 
 ### 5. Event Details and Management
