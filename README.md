@@ -49,6 +49,23 @@ Organizers can view a list of all their events, including details such as event 
 #### Organizers can view the list of successfully saved event from "View All Events" by NavigationView:
 <img width="346" alt="Screenshot 2024-08-15 at 2 10 26 AM" src="https://github.com/user-attachments/assets/b993cfc0-a3d5-41ba-aafe-ae0858e85ff0">
 
+### 6. Location Linking
+
+Event organizers can click on the event category to view the location on Google Maps, providing easy navigation to event venues.
+
+<img width="347" alt="Screenshot 2024-08-15 at 2 15 01 AM" src="https://github.com/user-attachments/assets/5a7555aa-9631-46c8-ac05-23ed376c38b2">
+
+
+### 7. Event Info Linking
+
+By clicking on the event name, users are directed to a Google search page with more details about the event, enhancing the information available to organizers and attendees.
+
+<img width="522" alt="Screenshot 2024-08-15 at 2 15 54 AM" src="https://github.com/user-attachments/assets/28455dfb-345c-4109-a55a-5aaddd3ab074">
+
+
+### 8. Gesture Controls
+
+The application supports various gesture controls for an enhanced user experience, including double click gestures to save the events and long press to delete event field.
 
 ## Conclusion
 
