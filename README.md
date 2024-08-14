@@ -43,11 +43,7 @@ After the user attempts to save an event, the application displays a toast messa
 
 Organizers can view a list of all their events, including details such as event name, date, category, and description. This feature allows organizers to manage their events efficiently.
 
-#### Organizers can view the list of successfully registered category from either dashboard or "View All Categories" by NavigationView:
-<img width="347" alt="Screenshot 2024-08-15 at 2 08 35 AM" src="https://github.com/user-attachments/assets/209a6d7a-445d-483e-820b-dab423b813ec"><img width="351" alt="Screenshot 2024-08-15 at 2 09 01 AM" src="https://github.com/user-attachments/assets/157d6696-bb19-4e60-b27f-33548931aebf">
-
-#### Organizers can view the list of successfully saved event from "View All Events" by NavigationView:
-<img width="346" alt="Screenshot 2024-08-15 at 2 10 26 AM" src="https://github.com/user-attachments/assets/b993cfc0-a3d5-41ba-aafe-ae0858e85ff0">
+<img width="347" alt="Screenshot 2024-08-15 at 2 08 35 AM" src="https://github.com/user-attachments/assets/209a6d7a-445d-483e-820b-dab423b813ec"><img width="351" alt="Screenshot 2024-08-15 at 2 09 01 AM" src="https://github.com/user-attachments/assets/157d6696-bb19-4e60-b27f-33548931aebf"><img width="346" alt="Screenshot 2024-08-15 at 2 10 26 AM" src="https://github.com/user-attachments/assets/b993cfc0-a3d5-41ba-aafe-ae0858e85ff0">
 
 ### 6. Location Linking
 
